@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I am Olivia - aka HammurabiCodes
+
+I am a Business Analytics Grad Student diving deep into the world of **Python**
 
 <!--
 **HammurabiCodes/HammurabiCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on ...Building a Saas Platform 
+- 🌱 I’m currently learning ...Python for Analytics and Automation 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: Olivia.tamimi1@gmail.com
+- 😄 Pronouns: ...She/Her
+- ⚡ Fun fact: ...Let the codes begin
+- 🚀 Future Launch ... Coming Soon 😜
+
