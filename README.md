@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Olivia - aka HammurabiCodes
 
-I am a Business Analytics Grad Student Specialized in FinTech diving deep into the world of **Python**
+I am a Business Analytics Grad Student specialized in FinTech diving deep into the world of **Python**
 
 - 🔭 I’m currently working on ...Building a Saas Platform 
 - 🌱 I’m currently learning ...Python for Analytics and Automation 
