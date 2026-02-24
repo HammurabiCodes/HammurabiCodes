@@ -19,7 +19,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 👋 About Me
+<img src="https://media.giphy.com/media/bGm9Og5FjzkYjgWBd2/giphy.gif" width="50"> About Me
 
 🎯 **Fintech Risk Expert** → **ML Data Scientist**  
 📊 Combining **10+ years** of credit risk expertise with modern ML  
