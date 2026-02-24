@@ -9,6 +9,13 @@
 </div>
 
 ---
+<div align="center">
+  
+  ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge)
+  ![Location](https://img.shields.io/badge/Location-New%20Jersey%2C%20US-blue?style=for-the-badge)
+  ![Graduation](https://img.shields.io/badge/Graduation-Dec%202026-orange?style=for-the-badge)
+  
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
