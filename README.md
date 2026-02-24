@@ -121,98 +121,22 @@ gantt
 
 ---
 
-## 🌟 Career Highlights
+## 🌟 Career Journey
 
-<details>
-<summary><b>🏆 Click to Expand My Journey</b></summary>
-<br>
-```yaml
-professional_experience:
-  role: Risk Management Professional
-  company: Biz2Credit
-  duration: 10+ years
-  expertise:
-    - Credit risk assessment and modeling
-    - Portfolio management and optimization
-    - Financial analysis and reporting
-    - Regulatory compliance (FDIC, OCC)
-    - Business lending operations
-  
-transition_goals:
-  target_role: ML Engineer / Data Scientist (Credit Risk)
-  target_companies:
-    - Upstart (ML-powered lending)
-    - Affirm (Buy-now-pay-later)
-    - SoFi (Personal finance)
-    - Rocket Mortgage (Digital lending)
-  unique_value: "Domain expertise + Technical skills"
-  
-education:
-  degree: MS in Business Analytics (Fintech Track)
-  university: Rutgers University
-  graduation: December 2026
-  gpa: [Your GPA]
-```
+### 🏦 Professional Background
+**Risk Management Professional** @ Biz2Credit | 10+ Years
+- ✅ Credit risk assessment and modeling
+- ✅ Portfolio management and optimization
+- ✅ Financial analysis and reporting
+- ✅ Regulatory compliance (FDIC, OCC)
 
-</details>
+### 🎯 Career Transition
+**From:** Traditional Risk Management  
+**To:** ML-Powered Credit Analytics
 
----
+**Target Companies:** Upstart • Affirm • SoFi • Rocket Mortgage  
+**Unique Value:** 10 years domain expertise + Modern ML skills
 
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/olivia-tamimi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Olivia.tamimi1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HammurabiCodes)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/HammurabiCodes/Credit-Risk-Prediction-ML)
-
-</div>
-
----
-
-## 💭 Philosophy
-
-<div align="center">
-  
-  > *"The best models aren't built by those who know the most math,*  
-  > *but by those who understand the problem deeply."*
-  
-  **Combining 10 years of domain expertise with modern ML to build solutions that actually work in production.**
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HammurabiCodes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
-
-</div>
-
----
-
-## 🎮 Fun Stats
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=HammurabiCodes&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![Repos Badge](https://badges.pufler.dev/repos/HammurabiCodes?style=for-the-badge&color=00D9FF&logo=github)](https://github.com/HammurabiCodes?tab=repositories)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/HammurabiCodes?style=for-the-badge&color=00D9FF&logo=github)](https://github.com/HammurabiCodes)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
-
-<div align="center">
-  
-  ### 💡 Open to collaboration on fintech ML projects!
-  **Let's build something amazing together** 🚀
-  
-</div>
+### 🎓 Education
+**MS in Business Analytics** (Fintech Track)  
+Rutgers University | Expected Dec 2026
