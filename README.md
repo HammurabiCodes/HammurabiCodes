@@ -1,4 +1,14 @@
-# Hi there 👋 I'm Olivia - aka HammurabiCodes
+# Hi there # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">👋 I'm Olivia - aka HammurabiCodes
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Risk+Management+Professional;10%2B+Years+in+Fintech+Lending;Transitioning+to+ML+%26+Data+Science;Building+Credit+Risk+Models)](https://git.io/typing-svg
+
+## 📊 GitHub Stats
+
+![Olivia's GitHub stats](https://github-readme-stats.vercel.app/api?username=HammurabiCodes&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HammurabiCodes&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HammurabiCodes&theme=radical)
 Fintech Risk Manager | Machine Learning for Credit Risk | Python, SQL, Scikit-learn | Rutgers MS Analytics
 Building portfolio projects in ML and fintech analytics.
 
@@ -28,6 +38,25 @@ Building portfolio projects that combine 10+ years of fintech expertise with mod
 ## 🚀 Featured Projects (Coming May 2026)
 Check back soon for my comprehensive credit risk ML portfolio project!
 
----
+## 🛠️ Skills & Technologies
 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/HammurabiCodes/HammurabiCodes/blob/output/github-contribution-grid-snake.svg)
 ### 📊 Let's Connect and Build Something Amazing Together!
