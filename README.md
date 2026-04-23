@@ -34,6 +34,14 @@
 ## 🔥 What I'm Building
 
 ### 🎯 Featured Project
+**🚨 NEW: [Synthetic Identity Fraud Detection System](https://github.com/HammurabiCodes/synthetic-id-fraud-detection)**
+
+- 10,000 synthetic loan applications generated
+- XGBoost model: 92% accuracy, ROC-AUC 0.8776
+- SHAP explainability for every fraud decision
+- Live Streamlit dashboard with risk scoring
+- Status: ✅ Complete
+
 **[Credit Risk Prediction ML](https://github.com/HammurabiCodes/Credit-Risk-Prediction-ML)**
 
 📊 **2.26M Lending Club loans analyzed**  
@@ -42,7 +50,10 @@
 ✨ **6 professional visualizations**  
 🏆 **Week 1 Complete:** Full exploratory data analysis  
 
-**Next Steps:** Feature Engineering → Model Building → Deployment
+### 🚧 Currently Building
+- Deploying fraud detection system to Streamlit Cloud
+- Building NLP loan review summarizer
+- Exploring AWS deployment for ML models
 
 ---
 
